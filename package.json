@@ -1,6 +1,6 @@
 {
   "name": "bunny-hono-esbuild",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "type": "module",
   "description": "Hono esbuild options for Edge Scripting for bunny.net 🐰",
