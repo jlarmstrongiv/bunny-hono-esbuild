@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-npm install bunny-hono-esbuild
+npm install --save-dev bunny-hono-esbuild
 ```
 
 ## Documentation
